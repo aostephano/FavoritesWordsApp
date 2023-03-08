@@ -1,11 +1,12 @@
-# Flutter Calculator with MVC pattern
+# Favorites Words App
+
+![img.png](img.png)
 
 ---
 
-
 # What i learned?
 
-- Remember: failing is okay, and is one of the most important elements of learning. Nobody expects you to nail Flutter development in your first hour, and neither should you.
+- "Remember: failing is okay, and is one of the most important elements of learning. Nobody expects you to nail Flutter development in your first hour, and neither should you."
 
 
 **- Flashcards questions - Checklist**
